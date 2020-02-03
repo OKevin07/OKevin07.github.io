@@ -1,0 +1,39 @@
+body{
+    background-color: #05072b;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+
+}
+.navbar-expand-lg {
+    font-size: x-large;
+    background-image: none;
+    background-color: #05072b!important;
+    padding-bottom: 20px;
+}
+.navbar-nav{
+text-align: end;
+
+
+}
+.form-group{
+    padding-right: 10%;
+    padding-left: 10%;
+    color:white;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.btn{
+    margin-left: 30%;
+}
+.navbar-nav {
+    margin-left:75%;
+}
+.container{
+    border-style: groove;
+    border-width: 15px;
+    padding-left: 30px;
+    padding-right:30px;
+}
+
